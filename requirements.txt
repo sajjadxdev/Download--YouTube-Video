@@ -1,0 +1,4 @@
+flask
+pytube
+requests
+yt-dlp
